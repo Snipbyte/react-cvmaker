@@ -1,0 +1,19 @@
+.template{
+    cursor: pointer;
+}
+
+.progress{
+    height: 7px;
+}
+.progress-bar-1{
+    width: 90%;
+}
+.progress-bar-2{
+    width: 70%;
+}
+.progress-bar-3{
+    width: 60%;
+}
+.progress-bar-4{
+    width: 80%;
+}
